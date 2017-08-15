@@ -1,7 +1,7 @@
 {
-  "name": "@isildur/iot-redux-helpers",
-  "version": "0.0.4",
-  "description": "iot redux helpers",
+  "name": "redux-workflow",
+  "version": "0.0.1",
+  "description": "redux fetch/workflow generators",
   "main": "./index.js",
   "scripts": {
     "test": "npm run test",

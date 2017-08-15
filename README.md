@@ -1,4 +1,4 @@
-# redux-helper
+# redux-workflow
 
 redux reducer, action creator generators for fetch and workflow
 
